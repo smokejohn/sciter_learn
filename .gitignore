@@ -1,0 +1,5 @@
+build/
+.cache/
+CMakeFiles/
+compile_commands.json
+sciter/
