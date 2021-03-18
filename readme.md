@@ -4,4 +4,4 @@ This repo contains sciter tutorials / projects that should compile on linux with
 
 ## Projects
 
-1. [Sciter Hello C++ Tutorial](hellocpp/readme.md)
+1. [Sciter Hello C++ Tutorial](hellocpp/)
